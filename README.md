@@ -1,2 +1,2 @@
 # Vuln_Web
-the training vulnerable web 
+this is the vulnerable web for training.
